@@ -103,13 +103,19 @@ class PrayerTimesApp {
                             <div class="day-name">${day.day}</div>
                             <div class="prayer-times">
                                 <div class="prayer-time-small">
-                                    <span>F:</span><span>${day.fajr}</span>
+                                    <span>Fajr:</span><span>${day.fajr}</span>
                                 </div>
                                 <div class="prayer-time-small">
-                                    <span>D:</span><span>${day.dhuhr}</span>
+                                    <span>Duhur:</span><span>${day.dhuhr}</span>
                                 </div>
                                 <div class="prayer-time-small">
-                                    <span>M:</span><span>${day.maghrib}</span>
+                                    <span>Asr:</span><span>${day.asr}</span>
+                                </div>
+                                <div class="prayer-time-small">
+                                    <span>Maghrib:</span><span>${day.maghrib}</span>
+                                </div>
+                                <div class="prayer-time-small">
+                                    <span>Isha:</span><span>${day.isha}</span>
                                 </div>
                             </div>
                         </div>
