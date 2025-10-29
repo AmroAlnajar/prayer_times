@@ -20,7 +20,6 @@ class PrayerTimesApp {
       throw new Error(`Failed to load prayer times: ${response.status}`)
     }
     this.prayerTimes = await response.json()
-    console.log('Loaded prayer times:', this.prayerTimes)
   }
 
   displayPrayerTimes() {
