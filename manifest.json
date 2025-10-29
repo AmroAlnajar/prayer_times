@@ -1,0 +1,15 @@
+{
+  "name": "Prayer Times",
+  "short_name": "PrayerTimes",
+  "start_url": "/prayer-times-app/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2c5530",
+  "icons": [
+    {
+      "src": "https://via.placeholder.com/192x192/2c5530/ffffff?text=🕌",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}

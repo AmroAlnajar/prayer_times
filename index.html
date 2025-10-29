@@ -3,9 +3,40 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Prayer Times</title>
+
+    <!-- PWA Meta Tags -->
+    <!-- <link rel="manifest" href="manifest.json" /> -->
+    <meta name="apple-mobile-web-app-capable" content="yes" />
+    <meta name="apple-mobile-web-app-status-bar-style" content="default" />
+    <meta name="apple-mobile-web-app-title" content="Prayer Times" />
+    <meta name="theme-color" content="#2c5530" />
+
+    <!-- CSS -->
+    <link rel="stylesheet" href="styles.css" />
+
+    <!-- Icons (optional but recommended) -->
+    <link rel="icon" type="image/png" href="icon-192.png" />
+    <link rel="apple-touch-icon" href="icon-192.png" />
   </head>
   <body>
-    <h1>HELLO GITHUB PAGES!!!</h1>
+    <div class="container">
+      <header>
+        <h1>Prayer Times</h1>
+      </header>
+
+      <main>
+        <div id="prayer-times">
+          <div class="loading">Loading prayer times...</div>
+        </div>
+      </main>
+
+      <footer>
+        <div id="last-updated"></div>
+      </footer>
+    </div>
+
+    <!-- JavaScript -->
+    <script src="app.js"></script>
   </body>
 </html>
