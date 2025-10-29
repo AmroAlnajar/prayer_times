@@ -15,7 +15,7 @@ class PrayerTimesApp {
   }
 
   async loadPrayerTimes() {
-    const response = await fetch('./current-version.json')
+    const response = await fetch('./data/current-version.json')
     if (!response.ok) {
       throw new Error(`Failed to load prayer times: ${response.status}`)
     }
