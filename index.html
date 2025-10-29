@@ -38,5 +38,14 @@
 
     <!-- JavaScript -->
     <script src="app.js"></script>
+    <script>
+      // Register service worker
+      if ('serviceWorker' in navigator) {
+        navigator.serviceWorker
+          .register('./sw.js')
+          .then((registration) => console.log('SW registered'))
+          .catch((error) => console.log('SW registration failed'))
+      }
+    </script>
   </body>
 </html>
