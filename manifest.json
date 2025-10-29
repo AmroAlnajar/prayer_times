@@ -1,7 +1,7 @@
 {
   "name": "Prayer Times",
   "short_name": "PrayerTimes",
-  "start_url": "/prayer-times-app/",
+  "start_url": "/prayer_times",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2c5530",
