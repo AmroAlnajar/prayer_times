@@ -1,308 +1,318 @@
 {
   "location": "Kristiansand",
-  "month": "December",
-  "year": 2025,
+  "month": "Januar",
+  "year": 2026,
   "calculation_method": "Kombinasjon av lokal tid i normal periode og en syvendedel regel i ekstrem periode",
   "prayer_times": [
     {
       "date": "01",
-      "day": "man",
-      "fajr": "06:36",
-      "sunrise": "08:47",
-      "dhuhr": "12:22",
-      "asr": "13:31",
-      "maghrib": "15:50",
-      "isha": "17:50"
-    },
-    {
-      "date": "02",
-      "day": "tir",
-      "fajr": "06:37",
-      "sunrise": "08:48",
-      "dhuhr": "12:22",
-      "asr": "13:31",
-      "maghrib": "15:49",
-      "isha": "17:49"
-    },
-    {
-      "date": "03",
-      "day": "ons",
-      "fajr": "06:38",
-      "sunrise": "08:50",
-      "dhuhr": "12:23",
-      "asr": "13:30",
-      "maghrib": "15:48",
-      "isha": "17:49"
-    },
-    {
-      "date": "04",
-      "day": "tor",
-      "fajr": "06:40",
-      "sunrise": "08:52",
-      "dhuhr": "12:23",
-      "asr": "13:30",
-      "maghrib": "15:47",
-      "isha": "17:48"
-    },
-    {
-      "date": "05",
-      "day": "fre",
-      "fajr": "06:41",
-      "sunrise": "08:54",
-      "dhuhr": "12:23",
-      "asr": "13:29",
-      "maghrib": "15:46",
-      "isha": "17:48"
-    },
-    {
-      "date": "06",
-      "day": "lør",
-      "fajr": "06:42",
-      "sunrise": "08:55",
-      "dhuhr": "12:24",
-      "asr": "13:29",
-      "maghrib": "15:46",
-      "isha": "17:47"
-    },
-    {
-      "date": "07",
-      "day": "søn",
-      "fajr": "06:43",
-      "sunrise": "08:57",
-      "dhuhr": "12:24",
-      "asr": "13:29",
-      "maghrib": "15:45",
-      "isha": "17:47"
-    },
-    {
-      "date": "08",
-      "day": "man",
-      "fajr": "06:45",
-      "sunrise": "08:58",
-      "dhuhr": "12:25",
-      "asr": "13:28",
-      "maghrib": "15:44",
-      "isha": "17:47"
-    },
-    {
-      "date": "09",
-      "day": "tir",
-      "fajr": "06:46",
-      "sunrise": "09:00",
-      "dhuhr": "12:25",
-      "asr": "13:28",
-      "maghrib": "15:44",
-      "isha": "17:47"
-    },
-    {
-      "date": "10",
-      "day": "ons",
-      "fajr": "06:47",
-      "sunrise": "09:01",
-      "dhuhr": "12:26",
-      "asr": "13:28",
-      "maghrib": "15:43",
-      "isha": "17:46"
-    },
-    {
-      "date": "11",
-      "day": "tor",
-      "fajr": "06:48",
-      "sunrise": "09:02",
-      "dhuhr": "12:26",
-      "asr": "13:28",
-      "maghrib": "15:43",
-      "isha": "17:46"
-    },
-    {
-      "date": "12",
-      "day": "fre",
-      "fajr": "06:49",
-      "sunrise": "09:03",
-      "dhuhr": "12:27",
-      "asr": "13:28",
-      "maghrib": "15:43",
-      "isha": "17:46"
-    },
-    {
-      "date": "13",
-      "day": "lør",
-      "fajr": "06:50",
-      "sunrise": "09:05",
-      "dhuhr": "12:27",
-      "asr": "13:28",
-      "maghrib": "15:43",
-      "isha": "17:46"
-    },
-    {
-      "date": "14",
-      "day": "søn",
-      "fajr": "06:50",
-      "sunrise": "09:06",
-      "dhuhr": "12:28",
-      "asr": "13:28",
-      "maghrib": "15:42",
-      "isha": "17:46"
-    },
-    {
-      "date": "15",
-      "day": "man",
-      "fajr": "06:51",
-      "sunrise": "09:07",
-      "dhuhr": "12:28",
-      "asr": "13:28",
-      "maghrib": "15:42",
-      "isha": "17:47"
-    },
-    {
-      "date": "16",
-      "day": "tir",
-      "fajr": "06:52",
-      "sunrise": "09:08",
-      "dhuhr": "12:29",
-      "asr": "13:28",
-      "maghrib": "15:42",
-      "isha": "17:47"
-    },
-    {
-      "date": "17",
-      "day": "ons",
-      "fajr": "06:53",
-      "sunrise": "09:08",
-      "dhuhr": "12:29",
-      "asr": "13:28",
-      "maghrib": "15:43",
-      "isha": "17:47"
-    },
-    {
-      "date": "18",
-      "day": "tor",
-      "fajr": "06:54",
-      "sunrise": "09:09",
-      "dhuhr": "12:29",
-      "asr": "13:29",
-      "maghrib": "15:43",
-      "isha": "17:47"
-    },
-    {
-      "date": "19",
-      "day": "fre",
-      "fajr": "06:54",
-      "sunrise": "09:10",
-      "dhuhr": "12:30",
-      "asr": "13:29",
-      "maghrib": "15:43",
-      "isha": "17:48"
-    },
-    {
-      "date": "20",
-      "day": "lør",
-      "fajr": "06:55",
-      "sunrise": "09:10",
-      "dhuhr": "12:30",
-      "asr": "13:29",
-      "maghrib": "15:43",
-      "isha": "17:48"
-    },
-    {
-      "date": "21",
-      "day": "søn",
-      "fajr": "06:55",
-      "sunrise": "09:11",
-      "dhuhr": "12:31",
-      "asr": "13:30",
-      "maghrib": "15:44",
-      "isha": "17:49"
-    },
-    {
-      "date": "22",
-      "day": "man",
-      "fajr": "06:56",
-      "sunrise": "09:12",
-      "dhuhr": "12:31",
-      "asr": "13:30",
-      "maghrib": "15:44",
-      "isha": "17:49"
-    },
-    {
-      "date": "23",
-      "day": "tir",
-      "fajr": "06:56",
-      "sunrise": "09:12",
-      "dhuhr": "12:32",
-      "asr": "13:31",
-      "maghrib": "15:45",
-      "isha": "17:50"
-    },
-    {
-      "date": "24",
-      "day": "ons",
-      "fajr": "06:57",
-      "sunrise": "09:12",
-      "dhuhr": "12:32",
-      "asr": "13:32",
-      "maghrib": "15:46",
-      "isha": "17:50"
-    },
-    {
-      "date": "25",
-      "day": "tor",
-      "fajr": "06:57",
-      "sunrise": "09:12",
-      "dhuhr": "12:33",
-      "asr": "13:32",
-      "maghrib": "15:46",
-      "isha": "17:51"
-    },
-    {
-      "date": "26",
-      "day": "fre",
-      "fajr": "06:57",
-      "sunrise": "09:13",
-      "dhuhr": "12:34",
-      "asr": "13:33",
-      "maghrib": "15:47",
-      "isha": "17:52"
-    },
-    {
-      "date": "27",
-      "day": "lør",
-      "fajr": "06:57",
-      "sunrise": "09:13",
-      "dhuhr": "12:34",
-      "asr": "13:34",
-      "maghrib": "15:48",
-      "isha": "17:53"
-    },
-    {
-      "date": "28",
-      "day": "søn",
-      "fajr": "06:58",
-      "sunrise": "09:13",
-      "dhuhr": "12:35",
-      "asr": "13:35",
-      "maghrib": "15:49",
-      "isha": "17:53"
-    },
-    {
-      "date": "29",
-      "day": "man",
-      "fajr": "06:58",
-      "sunrise": "09:13",
-      "dhuhr": "12:35",
-      "asr": "13:35",
-      "maghrib": "15:50",
-      "isha": "17:54"
-    },
-    {
-      "date": "30",
-      "day": "tir",
+      "day": "Tor",
       "fajr": "06:58",
       "sunrise": "09:12",
       "dhuhr": "12:36",
-      "asr": "13:36",
-      "maghrib": "15:51",
-      "isha": "17:55"
+      "asr": "13:38",
+      "maghrib": "15:54",
+      "isha": "17:57"
+    },
+    {
+      "date": "02",
+      "day": "Fre",
+      "fajr": "06:58",
+      "sunrise": "09:11",
+      "dhuhr": "12:37",
+      "asr": "13:39",
+      "maghrib": "15:55",
+      "isha": "17:58"
+    },
+    {
+      "date": "03",
+      "day": "Lør",
+      "fajr": "06:57",
+      "sunrise": "09:11",
+      "dhuhr": "12:37",
+      "asr": "13:41",
+      "maghrib": "15:57",
+      "isha": "17:59"
+    },
+    {
+      "date": "04",
+      "day": "Søn",
+      "fajr": "06:57",
+      "sunrise": "09:10",
+      "dhuhr": "12:38",
+      "asr": "13:42",
+      "maghrib": "15:58",
+      "isha": "18:01"
+    },
+    {
+      "date": "05",
+      "day": "Man",
+      "fajr": "06:57",
+      "sunrise": "09:10",
+      "dhuhr": "12:38",
+      "asr": "13:43",
+      "maghrib": "16:00",
+      "isha": "18:02"
+    },
+    {
+      "date": "06",
+      "day": "Tir",
+      "fajr": "06:57",
+      "sunrise": "09:09",
+      "dhuhr": "12:39",
+      "asr": "13:44",
+      "maghrib": "16:01",
+      "isha": "18:03"
+    },
+    {
+      "date": "07",
+      "day": "Ons",
+      "fajr": "06:56",
+      "sunrise": "09:08",
+      "dhuhr": "12:39",
+      "asr": "13:45",
+      "maghrib": "16:03",
+      "isha": "18:04"
+    },
+    {
+      "date": "08",
+      "day": "Tor",
+      "fajr": "06:56",
+      "sunrise": "09:07",
+      "dhuhr": "12:39",
+      "asr": "13:47",
+      "maghrib": "16:05",
+      "isha": "18:06"
+    },
+    {
+      "date": "09",
+      "day": "Fre",
+      "fajr": "06:55",
+      "sunrise": "09:06",
+      "dhuhr": "12:40",
+      "asr": "13:48",
+      "maghrib": "16:06",
+      "isha": "18:07"
+    },
+    {
+      "date": "10",
+      "day": "Lør",
+      "fajr": "06:55",
+      "sunrise": "09:05",
+      "dhuhr": "12:40",
+      "asr": "13:49",
+      "maghrib": "16:08",
+      "isha": "18:08"
+    },
+    {
+      "date": "11",
+      "day": "Søn",
+      "fajr": "06:54",
+      "sunrise": "09:04",
+      "dhuhr": "12:41",
+      "asr": "13:51",
+      "maghrib": "16:10",
+      "isha": "18:10"
+    },
+    {
+      "date": "12",
+      "day": "Man",
+      "fajr": "06:54",
+      "sunrise": "09:03",
+      "dhuhr": "12:41",
+      "asr": "13:52",
+      "maghrib": "16:12",
+      "isha": "18:11"
+    },
+    {
+      "date": "13",
+      "day": "Tir",
+      "fajr": "06:53",
+      "sunrise": "09:02",
+      "dhuhr": "12:41",
+      "asr": "13:54",
+      "maghrib": "16:14",
+      "isha": "18:13"
+    },
+    {
+      "date": "14",
+      "day": "Ons",
+      "fajr": "06:52",
+      "sunrise": "09:01",
+      "dhuhr": "12:42",
+      "asr": "13:55",
+      "maghrib": "16:16",
+      "isha": "18:14"
+    },
+    {
+      "date": "15",
+      "day": "Tor",
+      "fajr": "06:51",
+      "sunrise": "09:00",
+      "dhuhr": "12:42",
+      "asr": "13:57",
+      "maghrib": "16:18",
+      "isha": "18:16"
+    },
+    {
+      "date": "16",
+      "day": "Fre",
+      "fajr": "06:50",
+      "sunrise": "08:58",
+      "dhuhr": "12:43",
+      "asr": "13:58",
+      "maghrib": "16:20",
+      "isha": "18:17"
+    },
+    {
+      "date": "17",
+      "day": "Lør",
+      "fajr": "06:49",
+      "sunrise": "08:57",
+      "dhuhr": "12:43",
+      "asr": "14:00",
+      "maghrib": "16:22",
+      "isha": "18:19"
+    },
+    {
+      "date": "18",
+      "day": "Søn",
+      "fajr": "06:48",
+      "sunrise": "08:55",
+      "dhuhr": "12:43",
+      "asr": "14:01",
+      "maghrib": "16:24",
+      "isha": "18:21"
+    },
+    {
+      "date": "19",
+      "day": "Man",
+      "fajr": "06:47",
+      "sunrise": "08:54",
+      "dhuhr": "12:43",
+      "asr": "14:03",
+      "maghrib": "16:26",
+      "isha": "18:22"
+    },
+    {
+      "date": "20",
+      "day": "Tir",
+      "fajr": "06:46",
+      "sunrise": "08:52",
+      "dhuhr": "12:44",
+      "asr": "14:05",
+      "maghrib": "16:28",
+      "isha": "18:24"
+    },
+    {
+      "date": "21",
+      "day": "Ons",
+      "fajr": "06:45",
+      "sunrise": "08:51",
+      "dhuhr": "12:44",
+      "asr": "14:06",
+      "maghrib": "16:31",
+      "isha": "18:26"
+    },
+    {
+      "date": "22",
+      "day": "Tor",
+      "fajr": "06:44",
+      "sunrise": "08:49",
+      "dhuhr": "12:44",
+      "asr": "14:08",
+      "maghrib": "16:33",
+      "isha": "18:28"
+    },
+    {
+      "date": "23",
+      "day": "Fre",
+      "fajr": "06:43",
+      "sunrise": "08:47",
+      "dhuhr": "12:45",
+      "asr": "14:10",
+      "maghrib": "16:35",
+      "isha": "18:29"
+    },
+    {
+      "date": "24",
+      "day": "Lør",
+      "fajr": "06:41",
+      "sunrise": "08:45",
+      "dhuhr": "12:45",
+      "asr": "14:11",
+      "maghrib": "16:37",
+      "isha": "18:31"
+    },
+    {
+      "date": "25",
+      "day": "Søn",
+      "fajr": "06:40",
+      "sunrise": "08:44",
+      "dhuhr": "12:45",
+      "asr": "14:13",
+      "maghrib": "16:40",
+      "isha": "18:33"
+    },
+    {
+      "date": "26",
+      "day": "Man",
+      "fajr": "06:39",
+      "sunrise": "08:42",
+      "dhuhr": "12:45",
+      "asr": "14:15",
+      "maghrib": "16:42",
+      "isha": "18:35"
+    },
+    {
+      "date": "27",
+      "day": "Tir",
+      "fajr": "06:37",
+      "sunrise": "08:40",
+      "dhuhr": "12:46",
+      "asr": "14:17",
+      "maghrib": "16:44",
+      "isha": "18:37"
+    },
+    {
+      "date": "28",
+      "day": "Ons",
+      "fajr": "06:36",
+      "sunrise": "08:38",
+      "dhuhr": "12:46",
+      "asr": "14:18",
+      "maghrib": "16:47",
+      "isha": "18:39"
+    },
+    {
+      "date": "29",
+      "day": "Tor",
+      "fajr": "06:34",
+      "sunrise": "08:36",
+      "dhuhr": "12:46",
+      "asr": "14:20",
+      "maghrib": "16:49",
+      "isha": "18:41"
+    },
+    {
+      "date": "30",
+      "day": "Fre",
+      "fajr": "06:33",
+      "sunrise": "08:34",
+      "dhuhr": "12:46",
+      "asr": "14:22",
+      "maghrib": "16:51",
+      "isha": "18:43"
+    },
+    {
+      "date": "31",
+      "day": "Lør",
+      "fajr": "06:31",
+      "sunrise": "08:32",
+      "dhuhr": "12:46",
+      "asr": "14:24",
+      "maghrib": "16:54",
+      "isha": "18:45"
     }
   ]
 }
