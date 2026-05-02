@@ -1,7 +1,7 @@
 {
   "location": "Kristiansand",
   "month": "Mai",
-  "year": 0,
+  "year": 2026,
   "calculation_method": "Kombinasjon av lokal tid i normal periode og en syvendedel regel i ekstrem periode",
   "prayer_times": [
     {
